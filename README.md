@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @AdityaKareer
-- 👀 I’m interested in machine learning,flutter app development and WEB3 applications 
-- 🌱 I’m currently learning Data structures and algorithms
-- 💞️ I’m looking to collaborate on Flutter app development and machine learning projects
-- 📫 You can reach me on my email: Adityakareer01@gmail.com
--     I am a Student of Don Bosco
-<!---
-AdityaKareer/AdityaKareer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Aditya Kareer  
+📦 Product & growth enthusiast with a strong data and AI foundation  
+📈 I enjoy turning insights into products, narratives, and measurable outcomes  
+🧪 Experience across product discovery, analytics, experimentation, and positioning  
+🤝 Open to collaborations on product-led growth, data-driven platforms, and AI products  
+📫 Contact: Adityakareer01@gmail.com
